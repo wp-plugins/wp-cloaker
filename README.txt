@@ -13,7 +13,7 @@ WP Cloaker gives you the ability to shorten your affiliate ugly links and keep t
 == Description ==
 
 Here are some Features of **WP Cloaker** plugin:
-1. Hide, shorten your links.
+=1. Hide, shorten your links.=
 2. Custom redirection type: 301,302,303,307 and Javascript redirection.
 3. Categorize your links.
 4. Custom permalinks e.g : www.yoursite.com/visit/link-category-slug/link-slug.
@@ -22,7 +22,7 @@ Here are some Features of **WP Cloaker** plugin:
 
 == Installation ==
 
-1. Upload the wp-cloaker/ folder to the /wp-content/plugins/ directory.,
+1. Upload the wp-cloaker/ folder to the /wp-content/plugins/ directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.', 
 3. Visit the new 'WP Cloaker' menu and click 'Add New' to add a new link.
 
