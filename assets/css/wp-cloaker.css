@@ -1,0 +1,102 @@
+.link-options{
+	width:100%;	
+}
+.link-options label{
+	display:block;
+	margin:7px 10px 0 0;
+	float:left;
+	font-weight:bold;	
+}
+input[type="checkbox"]{
+	float:left;
+	margin:0 10px 0 0;	
+}
+input[type="text"]{
+	padding:5px 10px;
+	width:450px;	
+}
+.clearfix{
+	clear:both;	
+	margin:10px 0;
+}
+div.wp_cloaker_error{
+	clear:both;
+	color:#D01417;
+	display:none;	
+}
+.copylink-container{
+	
+}
+.copylink-container input{
+	width:75%;	
+}
+.copylink-container .copy{
+	cursor:pointer;
+	display:inline-block;
+	float:right;	
+	margin-top:5px;
+}
+.copy.zeroclipboard-is-hover { background-color: #00a0d2;color:#fff; }
+.copy.zeroclipboard-is-active { background-color: #00a0d2;color:#fff; }
+
+.clicks-count{
+	margin-bottom:15px;
+	display:inline-block;	
+}
+.clicks-details{
+	width:100%;	
+	border-collapse: collapse;
+    border-spacing: 0;
+	border:1px solid #ddd;	
+}
+.clicks-details tr:nth-child(even),.clicks-details tr.footer{
+	background-color:#f5f5f5;
+	border:1px solid #ddd;	
+}
+.clicks-details td,.clicks-details th{
+	border-right:1px solid #ddd;
+	padding:5px 10px;	
+}
+.clicks-details td:first-child{
+	text-align:center;	
+}
+.clicks-details-container{
+	overflow-x:scroll;
+	width:100%;	
+}
+.clicks-details .footer a{
+	background-color:#0091cd;	
+	border:1px solid #0073aa;
+	display:inline-block;
+	padding:5px;
+	margin-right:5px;
+	color:#fff;
+	text-decoration:none;
+	line-height:10px;
+}
+.clicks-details .footer a:hover{
+	background-color:#0073aa;
+}
+.clicks-details .footer span{
+	background-color:#ddd;
+	display:inline-block;
+	margin-right:5px;
+	padding:5px;
+	line-height:10px;
+	border:1px solid #0073aa;	
+}
+.custom-options{
+	width:100%;	
+}
+fieldset#custom-options{
+	border:1px solid #ddd;	
+	padding:10px;
+	border-radius:5px;
+	margin-top:30px;
+}
+.wp-cloaker-logo{
+	float:right;	
+}
+.pro{
+		
+}
