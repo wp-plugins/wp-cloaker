@@ -12,8 +12,13 @@ WP Cloaker gives you the ability to shorten your affiliate ugly links and keep t
 
 == Description ==
 
-Here are some Features of WP Cloaker plugin:
-1. Hide, shorten your links., 2. Custom redirection type: 301,302,303,307 and Javascript redirection., 3. Categorize your links., 4. Custom permalinks e.g : www.yoursite.com/visit/link-category-slug/link-slug., 5. Track links clicks, each time a visitor click on any link, the plugin will store the visitor information like (IP address, click date/time, Country, etc..)., 6. You can add third party tracking code.
+Here are some Features of **WP Cloaker** plugin:
+1. Hide, shorten your links.
+2. Custom redirection type: 301,302,303,307 and Javascript redirection.
+3. Categorize your links.
+4. Custom permalinks e.g : www.yoursite.com/visit/link-category-slug/link-slug.
+5. Track links clicks, each time a visitor click on any link, the plugin will store the visitor information like (IP address, click date/time, Country, etc..).
+6. You can add third party tracking code.
 
 == Installation ==
 
