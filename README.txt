@@ -22,7 +22,9 @@ Here are some Features of **WP Cloaker** plugin:
 
 == Installation ==
 
-1. Upload the thirstyaffiliates/ folder to the /wp-content/plugins/ directory., 2. Activate the plugin through the 'Plugins' menu in WordPress.', 3. Visit the new 'WP Cloaker' menu and click 'Add New' to add a new link.
+1. Upload the wp-cloaker/ folder to the /wp-content/plugins/ directory.,
+2. Activate the plugin through the 'Plugins' menu in WordPress.', 
+3. Visit the new 'WP Cloaker' menu and click 'Add New' to add a new link.
 
 
 == Screenshots ==
