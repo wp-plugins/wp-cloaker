@@ -185,7 +185,6 @@ class WP_Cloaker{
 			if(file_exists(plugin_dir_path(__FILE__). 'assets/views/single-wp_cloaker_link.php'))
 				return plugin_dir_path(__FILE__). 'assets/views/single-wp_cloaker_link.php';
 		}
-    	return $single;	
 	}
 	//register link clicks details metabox
 	public function wp_cloaker_link_clicks_details_init(){
