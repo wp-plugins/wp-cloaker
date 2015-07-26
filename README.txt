@@ -1,6 +1,6 @@
 === WP Cloaker ===
 Contributors: WWGate
-Donate link: http://example.com/
+Donate link: http://www.wwgate.net/wp-cloaker-shorten-and-track-your-links/
 Tags: : link cloaker, affiliate link, affiliate link management, affiliate link manager, affiliate link redirect, affiliate links, affiliate marketing, link cloak, link cloaking, link redirect, manage affiliate links, click counting, visitor information, 301 redirect, 302 redirect, link masking
 Requires at least: 4.0.0
 Tested up to: 4.2.2
